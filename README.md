@@ -30,14 +30,13 @@ I'm a 2nd year Computer Science student specializing in Data Science and AI at A
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/your-profile)
+[![LinkedIn](https://www.linkedin.com/in/salome-timsit-15533330a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpNCPgqA7TK%2BE0XBq4p8ymg%3D%3D)
 
 ## 💬 Get in Touch
 
 Feel free to reach out to me for collaboration on projects, discussing tech, or just to say hi!
 
-📫 **Email:** [your-email@example.com]
+📫 **Email:** [timsitmelosa@gmail.com]
 
 ---
 
