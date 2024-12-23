@@ -2,7 +2,6 @@
 I'm a 2nd year Computer Science student specializing in Data Science and AI at Ariel University. I have a passion for coding, machine learning, and working on exciting projects. Here's a bit more about me:
 
 - 🌟 **Languages I Know:**
- ### Shields.io Badges
 <img align="left" width="72px" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img align="left" width="72px" src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white"/>
 <img align="left" width="72px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
