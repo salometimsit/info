@@ -2,12 +2,21 @@
 I'm a 2nd year Computer Science student specializing in Data Science and AI at Ariel University. I have a passion for coding, machine learning, and working on exciting projects. Here's a bit more about me:
 
 - 🌟 **Languages I Know:**
-  - C
-  - C++
-  - Java
-  - Python
-  - C#
-  - Assembly
+ ### Shields.io Badges
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Image Links
+![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
+![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png)
+![Assembly](https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png)
+![C#](https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png)
+![C](https://raw.githubusercontent.com/github/explore/main/topics/c/c.png)
+![C++](https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png)
 
 - 🤖 **Skills and Interests:**
   - Machine Learning
