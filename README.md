@@ -35,6 +35,7 @@ Here are some of the projects you'll find in my repositories:
   - [ Fitness-Studio--OOP](https://github.com/itaysegev1/Fitness-Studio--OOP) - Fitness managment with Gui and design patterns
 - **DATA SCIENCE AND AI:**
   - [final-project-Neuro--Science](https://github.com/salometimsit/final-project-Neuro--Science)
+  - [basic emotion clasiifier](https://github.com/salometimsit/Emotion-classifier)
 - **Network:**
   - [ping and tracerout](https://github.com/salometimsit/network-ping-and-tracerout) - tracerout and ping on ipv6 and ipv4 
 
