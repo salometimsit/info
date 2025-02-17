@@ -29,11 +29,11 @@ I'm a 2nd year Computer Science student specializing in Data Science and AI at A
 - Implemented machine learning models for different data science applications.
 ## My Projects
 Here are some of the projects you'll find in my repositories:
-OOP:
+- **OOP:**
   - [orthello or reversi- OOP](https://github.com/salometimsit/reversi-orthelo)- whole reversi game with extra functions
   - [ Library-Managment-OOP](https://github.com/salometimsit/Library-Managment-OOP)- Library managment with design patterns
   - [ Fitness-Studio--OOP](https://github.com/itaysegev1/Fitness-Studio--OOP) - Fitness managment with Gui and design patterns
-DATA SCIENCE AND AI:
+- **DATA SCIENCE AND AI:**
   - [final-project-Neuro--Science](https://github.com/salometimsit/final-project-Neuro--Science)
 
 ## 📈 GitHub Stats
