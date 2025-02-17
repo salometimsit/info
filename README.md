@@ -27,6 +27,12 @@ I'm a 2nd year Computer Science student specializing in Data Science and AI at A
 
 - Worked on various cyber projects involving network security and data analysis.
 - Implemented machine learning models for different data science applications.
+## My Projects
+Here are some of the projects you'll find in my repositories:
+OOP:
+  -  Library-Managment-OOP - Fitness managment with Gui and design patterns
+  - Library managment with design patterns
+  - 
 
 ## 📈 GitHub Stats
 
