@@ -38,10 +38,6 @@ Here are some of the projects you'll find in my repositories:
 - **Network:**
   - [ping and tracerout](https://github.com/salometimsit/network-ping-and-tracerout) - tracerout and ping on ipv6 and ipv4 
 
-## 📈 GitHub Stats
-
-![Sasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasa04&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://www.linkedin.com/in/salome-timsit-15533330a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpNCPgqA7TK%2BE0XBq4p8ymg%3D%3D)
