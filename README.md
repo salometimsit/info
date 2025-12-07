@@ -1,5 +1,5 @@
 # info
-I'm a 2nd year Computer Science student specializing in Data Science and AI at Ariel University. I have a passion for coding, machine learning, and working on exciting projects. Here's a bit more about me:
+I'm a 3rd year Computer Science student specializing in Data Science and AI at Ariel University. I have a passion for coding, machine learning, and working on exciting projects. Here's a bit more about me:
 
 - 🌟 **Languages I Know:**
 <img align="left" width="72px" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
